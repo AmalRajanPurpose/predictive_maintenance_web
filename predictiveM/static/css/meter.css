@@ -1,0 +1,122 @@
+#meter_0{
+  position: absolute;
+  left: -19px;
+    top: -242px;
+}
+#meter_1{
+  position: absolute;
+ left: 119px;
+    top: -195px;
+}
+#meter_2{
+  position: absolute;
+ left: 199px;
+    top: -93px;
+}
+#meter_3{
+  position: absolute;
+  left: 205px;
+    top: 61px;
+}
+#meter_4{
+  position: absolute;
+left: 133px;
+    top: 167px;
+}
+#meter_5{
+  position: absolute;
+    left: -12px;
+    top: 219px;
+}
+#meter_6{
+  position: absolute;
+      left: -136px;
+    top: 178px;
+}
+
+#meter_7{
+  position: absolute;
+     left: -223px;
+    top: 64px;
+}
+#meter_8{
+  position: absolute;
+  left: -224px;
+    top: -81px;
+}
+#meter_9{
+  position: absolute;
+left: -147px;
+    top: -194px;
+}
+
+#meter_10{
+  position: absolute;
+  left: 100px;
+  top:-212px;
+}
+
+
+.meter_dial{
+width:70px;
+height:70px;
+background-color:red;
+ border-radius: 50%;
+  position: absolute;
+left:165px;
+    top: 163px;
+}
+
+#meter_dial_title{
+color:white;
+ position: absolute;
+      left: 16px;
+    top: 17px;
+    z-index: 2;
+}
+
+.allocated{
+background-color:Tomato;
+height:300px;
+width:1000px;
+position: relative;
+left:3%;
+overflow-y: scroll;
+}
+
+.allocated_data{
+color:blue;
+position: absolute;
+left:10%;
+top:10%;
+}
+
+.main_div{
+
+background-color:#d9701b;
+height:500px;
+width:500px;
+border-radius: 50%;
+position: absolute;
+left:10%;
+top:10%;
+margin-left:50%;
+margin-top:30%;
+}
+
+.navigation_bar{
+    width:200%;
+    height:80px;
+    background-color:red;
+    margin-bottom:10px;
+}
+
+.table_class{
+margin-top:20px;
+position: relative;
+height:500px;
+width:1000px;
+overflow-y: scroll;
+background-color:Tomato;
+margin-left:30px;
+}
